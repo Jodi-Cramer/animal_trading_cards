@@ -1,0 +1,43 @@
+body {
+	font-size: 100%;
+	font-family: Georgia, serif;
+}
+
+h2 {
+	margin-top: 0px;
+}
+
+img {
+	margin-bottom: 20px;
+	/*width: 100%*/
+}
+
+ul {
+	list-style:none;
+	padding: 0;
+	list-style-type: none;
+}
+
+.box_border {
+	border-style: solid;
+	border-color: #cecece;
+	border-width: 1px;
+	padding: 20px;
+}
+
+.box_shadow {
+	box-shadow:8px 8px 20px #e6e6e6;
+}
+
+.center {
+	 	width: 300px;
+	 	margin: auto;
+}
+
+.interesting_fact {
+	font-style: italic;
+}
+
+.label   {
+	font-weight: bold;
+}
